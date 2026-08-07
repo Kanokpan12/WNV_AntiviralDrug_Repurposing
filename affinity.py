@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set Seaborn style
-sns.set(style="white", font_scale=1.2)  # 'white' for clean background
+sns.set(style="white", font_scale=1.2)  
 
 # Path to your CSV
 csv_file = "file path/ affinity.csv"
