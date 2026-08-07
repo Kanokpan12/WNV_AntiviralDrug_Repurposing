@@ -1,4 +1,4 @@
-# West Nile virus_Antiviral_Drug_Repurposing
+# West Nile virus antiviral drug repurposing
 
 Molecular docking–based analysis to identify potential drug candidates targeting the NS5 protein of West Nile Virus (WNV).
 
