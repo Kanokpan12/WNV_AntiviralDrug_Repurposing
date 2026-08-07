@@ -17,7 +17,7 @@ size_x, size_y, size_z = 17.85, 17.97, 25.48
 exhaustiveness = 8
 # ====================
 
-# Create output folder if it doesn't exist
+# Create output folder
 os.makedirs(output_folder, exist_ok=True)
 
 # Collect results
