@@ -6,7 +6,7 @@ import seaborn as sns
 sns.set(style="white", font_scale=1.2)  # 'white' for clean background
 
 # Path to your CSV
-csv_file = "/Volumes/Seagate Por/DrugDesign/affinity.csv"
+csv_file = "file path/ affinity.csv"
 
 # Read CSV
 df = pd.read_csv(csv_file)
