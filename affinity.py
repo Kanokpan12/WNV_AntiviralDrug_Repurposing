@@ -43,6 +43,6 @@ plt.title("Minimized Affinity of Antiviral Compounds to WNV NS5 Protein",
 # Remove grid lines for clean look
 plt.grid(False)
 
-# Tight layout for publication
+# Tight layout
 plt.tight_layout()
 plt.show()
