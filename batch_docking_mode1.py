@@ -6,10 +6,10 @@ import subprocess
 import csv
 
 # === USER SETTINGS ===
-receptor = r"/Volumes/Seagate Por/DrugDesign/resultns5pocket/ns5dq176637clean_P_1_res.pdbqt"
-ligand_folder = r"/Volumes/Seagate Por/DrugDesign/pdbqt_output"   # 32 ligands here
-output_folder = r"/Volumes/Seagate Por/DrugDesign/docked_result"
-smina_bin = r"/Volumes/Seagate Por/DrugDesign/smina/smina.osx.12"
+receptor = r"file path/ns5dq176637clean_P_1_res.pdbqt"
+ligand_folder = r"file path/DrugDesign/pdbqt_output"   
+output_folder = r"file path/docked_result"
+smina_bin = r"file path/smina.osx.12"
 
 # Grid box
 center_x, center_y, center_z = 11.44, 13.70, -19.36
