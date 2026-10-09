@@ -31,8 +31,8 @@ This project demonstrates a computational workflow for identifying potential ant
 * Compound library: ChEMBL
 * Binding affinity: AutoDock/Smina
 * MD simulation: GROMACS
-* Structure prediction: AlphaFold2 (or ColabFold)
-* Pocket detection: DoGSiteScorer (via ProteinsPlus web server or local install)
+* Structure prediction: AlphaFold2
+* Pocket detection: DoGSiteScorer (via ProteinsPlus web server)
 
 ## Result 
 * The AlphaFold2-predicted NS5 structure showed high confidence (mean pLDDT score = 94.5) and strong agreement with experimentally determined structures. Structural alignment confirmed conservation of key catalytic domains:
